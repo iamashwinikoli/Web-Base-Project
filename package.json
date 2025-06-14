@@ -2,7 +2,8 @@
   "name": "my-portfolio1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iamashwinikoli/Web-Base-Project",
+  "homepage":   "https://iamashwinikoli.github.io/Web-Base-Project",
+
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
