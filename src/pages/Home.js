@@ -7,7 +7,7 @@ function Home() {
       <Navbar />
       <div className="section-container" style={{ textAlign: "center" }}>
         <img
-          src="/ashwini.jpg" // Make sure the image is in your /public folder
+          src="/ashwinikoli.jpg" // Make sure the image is in your /public folder
           alt="Profile"
           style={{
             width: "180px",
