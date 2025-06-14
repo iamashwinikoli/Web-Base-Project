@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamashwinikoli/Web-Base-Project/static/css/main.faef628a.css",
+    "main.js": "/iamashwinikoli/Web-Base-Project/static/js/main.69195d96.js",
+    "static/js/453.a510d0f4.chunk.js": "/iamashwinikoli/Web-Base-Project/static/js/453.a510d0f4.chunk.js",
+    "index.html": "/iamashwinikoli/Web-Base-Project/index.html",
+    "main.faef628a.css.map": "/iamashwinikoli/Web-Base-Project/static/css/main.faef628a.css.map",
+    "main.69195d96.js.map": "/iamashwinikoli/Web-Base-Project/static/js/main.69195d96.js.map",
+    "453.a510d0f4.chunk.js.map": "/iamashwinikoli/Web-Base-Project/static/js/453.a510d0f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faef628a.css",
+    "static/js/main.69195d96.js"
+  ]
+}
